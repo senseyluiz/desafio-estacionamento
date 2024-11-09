@@ -1,0 +1,14 @@
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\bin\Debug\net8.0\Estacionamento.exe
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\bin\Debug\net8.0\Estacionamento.deps.json
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\bin\Debug\net8.0\Estacionamento.runtimeconfig.json
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\bin\Debug\net8.0\Estacionamento.dll
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\bin\Debug\net8.0\Estacionamento.pdb
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\Estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfoInputs.cache
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\Estacionamento.AssemblyInfo.cs
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\Estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\Estacionamento.dll
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\refint\Estacionamento.dll
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\Estacionamento.pdb
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\Estacionamento.genruntimeconfig.cache
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\Estacionamento\obj\Debug\net8.0\ref\Estacionamento.dll
