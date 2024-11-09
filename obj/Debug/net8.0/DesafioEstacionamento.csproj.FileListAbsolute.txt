@@ -12,3 +12,4 @@ C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamen
 C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.pdb
 C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.genruntimeconfig.cache
 C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\DesafioEstacionamento\obj\Debug\net8.0\ref\DesafioEstacionamento.dll
+C:\Users\sense\OneDrive\Área de Trabalho\DIO\Formacao_Net_Developer\01-Fundamentos\DesafioEstacionamento\obj\Debug\net8.0\DesafioEstacionamento.sourcelink.json

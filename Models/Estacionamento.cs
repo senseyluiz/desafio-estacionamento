@@ -19,7 +19,7 @@ namespace DesafioEstacionamento.Models
         public void CadastrarVeiculo()
         {
             Console.WriteLine("Digite a placa do Veículo: ");
-            string placa = Console.ReadLine()!;
+            string placa = Console.ReadLine()!.ToUpper();
             veiculos.Add(placa);
             Console.WriteLine($"Veículo de placa {placa} cadastrado com sucesso.");
         }
@@ -27,7 +27,7 @@ namespace DesafioEstacionamento.Models
         public void RemoverVeiculo()
         {
             Console.WriteLine("Digite a placa do Veículo: ");
-            string placa = Console.ReadLine()!;
+            string placa = Console.ReadLine()!.ToUpper();
             if(veiculos.Contains(placa)){
                 Console.WriteLine("Digite a quantidade de horas que o veículo ficou estacionado:");
                 int horasEstacionado = int.Parse(Console.ReadLine()!);
